@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="329" height="170" viewBox="0 0 329 170">
+  <g id="SSD" transform="translate(-468 -2412)">
+    <g id="Group_889" data-name="Group 889" transform="translate(-58 -2)">
+      <g id="Group_920" data-name="Group 920">
+        <line id="Line_76" data-name="Line 76" y1="116.5" transform="translate(602.5 2414.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_76-2" data-name="Line 76" y1="116.5" transform="translate(665.5 2414.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_76-3" data-name="Line 76" y1="116.5" transform="translate(728.5 2414.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_76-4" data-name="Line 76" y1="116.5" transform="translate(791.5 2414.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <line id="Line_76-5" data-name="Line 76" y1="116.5" transform="translate(854.5 2414.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <rect id="Rectangle_1479" data-name="Rectangle 1479" width="253" height="16" transform="translate(602 2414)" fill="#1486f9"/>
+      <rect id="Rectangle_1480" data-name="Rectangle 1480" width="42" height="16" transform="translate(602 2444.5)" fill="#999"/>
+      <rect id="Rectangle_1481" data-name="Rectangle 1481" width="34" height="16" transform="translate(602 2474.5)" fill="#777"/>
+      <rect id="Rectangle_1482" data-name="Rectangle 1482" width="23" height="16" transform="translate(602 2504.5)" fill="#5c5c5c"/>
+      <line id="Line_77" data-name="Line 77" x2="252" transform="translate(602.5 2530.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <text id="M.2_NVme" data-name="M.2 NVme" transform="translate(526 2430)" fill="#1486f9" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">M.2 NVme</tspan></text>
+      <text id="M.2_NGFF" data-name="M.2 NGFF" transform="translate(526 2457.5)" fill="#999" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">M.2 NGFF</tspan></text>
+      <text id="SSD-2" data-name="SSD" transform="translate(527 2486.5)" fill="#777" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">SSD</tspan></text>
+      <text id="HDD" transform="translate(527 2516.5)" fill="#5c5c5c" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">HDD</tspan></text>
+    </g>
+    <g id="Group_888" data-name="Group 888" transform="translate(-65 -73)">
+      <text id="Speed_in_MBPS_" data-name="Speed ( in MBPS)" transform="translate(663 2651)" fill="#a1a1a6" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Speed ( in MBPS)</tspan></text>
+      <text id="_0" data-name="0" transform="translate(608 2622)" fill="#a1a1a6" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-8.984" y="0">0</tspan></text>
+      <text id="_900" data-name="900" transform="translate(674 2622)" fill="#a1a1a6" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-26.953" y="0">900</tspan></text>
+      <text id="_1800" data-name="1800" transform="translate(737 2622)" fill="#a1a1a6" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-35.938" y="0">1800</tspan></text>
+      <text id="_2700" data-name="2700" transform="translate(800 2622)" fill="#a1a1a6" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-35.938" y="0">2700</tspan></text>
+      <text id="_3600" data-name="3600" transform="translate(862 2622)" fill="#a1a1a6" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-35.938" y="0">3600</tspan></text>
+    </g>
+  </g>
+</svg>
